@@ -1,0 +1,6 @@
+dig docs.friendsialize.com +nostats +nocomments +nocmd
+
+;docs.friendsialize.com. IN A
+docs.friendsialize.com. 3592 IN CNAME devflames.github.io.
+devflames.github.io. 43192 IN CNAME devflames.github.io/friendsialize.io .
+devflames.github.io/friendsialize.io . 22 IN A 167.172.120.188
